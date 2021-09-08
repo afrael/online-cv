@@ -7,21 +7,21 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Afrael Ortiz
+    tagline: Principal Software Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: 
+    phone: 
+    website: www.afrael.com #do not add http://
+    linkedin: afrael
+    xing: 
+    github: afrael
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@ald'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -31,162 +31,203 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
-
       - idiom: Spanish
-        level: Professional
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Retrocomputing
         link:
 
-      - item: Snowboarding
-        link:
+      - item: Cheese Making
+        link: www.nuestrosquesos.com
 
-      - item: Cooking
+      - item: Generative Arts
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Accomplished Engineer with a diversified technology background, excellent expertise in software design including but not limited to, architecture, prototypes and proofs of concept, implementation, testing and deployment. Very solid database skills. Proven ability to architect, design and implement technologies that integrate together complex systems. Excellent communication and people skills.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: BSc Computer Science
+      university: Universidad Centro Occidental Lisandro Alvarado
+      time: 1989 - 1995
+      details: 
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Principal Software Engineer (Tech Lead role)
+      time: Jan 2021 - Present
+      company: UKG (Ultimate Kronos Group), Miami-Fort Lauderdale area
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Assisting a team of 10 developers with the technical aspects of design and also aliging the technology direction with the products direction.
+          - Helping team members grow technically
+          - Setting learnign goals
+          - Responsible for Pull Request approval to ensure code quality and enforce standards and guidelines
+          - Help team members with code quality, improvements and other quality goals, for example testing.
+          - Setting one-on-ones with team members on a regular basis
+    - role: Software Engineer Role
+      time: Aug 2016 - Jan 2021
+      company: Ultimate Software, Miami-Fort Lauderdale area
+      details: |
+        Currently part of the team that is creating UltiPro's new Tax Engine (UTE).
+          - Breaking a monolithic ASP.NET/SQL Server procedure based app into a managed services system
+          - Writing services that facilitate horizontal scaling
+          - Moving towards microservices
+          - Writing service based UI
+          - Using a Domain Driven Design with message and event driven architecture/approach to accomplish these goals
+    - role: Technical Lead
+      time: Jan 2016 - Aug 2016
+      company: Autonation, Fort lauderdale
+      details: |
+        AutoNation InHouse CRM Stabilization, CRM Phase II and CRM Phase III projects
+          - Implemented development and design guidelines for any new feature that would be added to the project.
+          - Participate in code reviews and ensure quality of the code that is being added or updated to the project.
+          - Determine development tasks and estimations, on an individual and team basis.
+          - Lead all stabilization efforts to accomplish company wide adoption of new updated CRM system.
+          - Lead daily stand-up meetings and also participate with business/product owner meetings to establish and proritize tasks and or user stories that will be released per sprint/release.
+          - Communicate in understandable software terms with the business or product owners about the complexity and risks involved with the requested features.
+          - Technical challenges currenly being addressed are: memory leaks in AngularJS, optimization of code to ensure performance, measure and log activities through AppInsights to visualize progress, minimize technical debt, refactoring of initial code.
+          - Minimize browser crashes and unexpected errors, also, guarantee cross-browser compatibility.
+          - Inspect previous code base to determine migration efforts.
+          - Document changes per release.
+          - Participate in the interview process when recruiting new team members.
+          - The technologies involved are JavaScript, C#, AngularJS, SignalR, WEB.API, Microsoft SQL Server, Windows Services.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: Feb 2014 - Dec 2015
+      company: Autonation, Fort lauderdale
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Designed, architected and implemented a notification and alert service
+          - A plugin-based service that delivers notifications and alerts through different mediums.
+          - Implemented an email plugin, native mobile notification plugin, in-app notification plugin and texting plugin.
+          - Engine based on MEF (Microsoft Extensibility Framework).
+          - Create a services layer exposed through a secure REST API.
+          - The technologies involved are AngularJS, SignalR, WEB.API, Microsoft SQL Server, Windows Services and Microsoft Extensibility Framework.
+        
+        Participated in the AutoNation CRM system technology update project
+          - Update existing ASP, ASP.NET and SOAP Web Services to an AngularJS based app through a RESTful API.
+          - Create a services layer exposed through a secure REST API.
+          - Designed and implemented a web based texting feature, present in the mobile app, using SignalR.
+          - The technologies involved are AngularJS, SignalR, WEB.API, Microsoft SQL Server.
+        
+        Designed, architected and implemented a mobile app client of our homegrown AutoNation CRM system
+          - Cross-platform mobile application.
+          - Create a services layer exposed through a secure REST API.
+          - Created a texting feature using third-party technologies, SignalR for near-realtime updates and Azure to push cross-platform native notifications.
+          - Technically achieving this through the use of WEB.API, Xamarin.Forms, SignalR, Azure among other technologies.
+    - role: Founder
+      time: Jun 2011 - Jun 2015
+      company: Plus58, Fort lauderdale
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        All of the following apps were retired from the iTunes AppStore:
+        TinyLingua, Bilingual Preschool Learning Activities
+          - Use of cocos2d framework. Spritesheets, Particles and UIGestureRecognizers
+          - Custom animations, custom classes, singletons and a sequenced audio
+          - Integration of five learning levels and three games
+          - Twitter and Facebook integration
+          - Universal app
+        
+        TinyLingua, Baby Learning Phone
+          - Use of cocos2d framework. Spritesheets, Particles and UIGestureRecognizers
+          - Custom animations, custom classes, singletons and a sequenced audio
+          - Integration of five learning levels, three games and a finger paint section
+          - Use of In-App purchases to deliver unlocked content
+    - role: Senior Software Engineer
+      time: Aug 2010 - Feb 2014
+      company: IP-NET LLC, Fort lauderdale
+      details: |
+        AutoNation Payroll, Pricing and Vehicle Stock In Projects
+          - Proprietary Payroll system, handles all payroll calculations for the AN related sales personnel.
+          - Proprietary Pricing system, handles all pricing tiers for all new vehicle in inventory.
+          - Proprietary Vehicle Stock-In system, handles the stock in of all new vehicles, invoices and GL calculations.
+          - Task based SharePoint application to handle quick requests, be able to track and follow up on the created tasks.
+          - Maintenance tasks on our current CRM system.
+        
+        Bayview Asset Management SharePoint Enhancements & Integration Project
+          - Upgrades to SharePoint infrastructure to guarantee high availability
+          - Integrated SharePoint with Microsoft SSRS, Microsoft PerformancePoint and BusinessObjects XI
+        
+        RTAM (Real Time Advertising Monitor) Software Package
+          - Addressed several serious database issues in legacy version. Optimized queries and joins to achieve faster performance
+          - Reengineered the application to a more industry standard MVC paradigm.
+          - Created a data process that converted data from a MySQL database into a Firebird embedded database
+          - Generated over 50K dollars in additional sales thanks to code fixes and code optimization
+    - role: Software Engineer
+      time: May 2006 - Aub 2010
+      company: Assurant INC, Miami
+      details: |
+        Framework Application Development Team, Miami, Florida
+          - Created a new validation library using regular expressions recipes.
+          - Exposed data through a WCF/REST interface.
+          - Optimized code through refactoring to accommodate better software patterns.
+          - Created a security model that hides sensitive information through the use of variable substitution.
+        
+        Assurant Specialty Property Licensing Application, Miami Florida and Toronto, Canada.
+          - Integrated third party applications/vendors through the use of XML Web Services.
+          - Published functionality to third party applications/vendors also using web services.
+          - Used LinqToObjects for smart and quick creation of sets of data.
+          - Created batch process using plug-ins, based on proprietary libraries developed at Assurant.
+          - Extended use of unit tests for a continuous development-test-deployment cycle.
+        
+        Assurant Specialty Property Cash Data Warehouse Online Treasury Application, Miami, Florida
+          - Created and implemented use cases, gathered information, object relation diagrams and sequence.
+          - Created and maintained stored procedures, function, packages and customs data migration PL/SQL scripts.
+          - Integrated with third party systems via web services, FTP, Mainframe Datasets and flat files.
+          - Designed and created web page layouts that support localization for international users.
+          - Created unit tests to verify the integrity of the business objects that are part of the system.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Currently working on the website, NuestrosQuesos.com, translated to "Our Cheeses", the idea is to have a site where recipes for making cheese can be publshed, also working on a world map of cheese hobbyist and artisanal cheese makers.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: NuestrosQuesos.com
+        link: www.nuestrosquesos.com
+        tagline: 
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title:
+        link:
+        tagline:
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title:
+        link:
+        tagline:
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title:
+        link:
+        tagline:
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title:
+        link:
+        tagline:
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+# publications:
+#     title:
+#     intro: 
+#     papers:
+#       - title:
+#         link:
+#         authors:
+#         conference:
+# skills:
+#     title: Skills &amp; Proficiency
+# 
+#     toolset:
+#       - name: Python & Django
+#         level: 98%
+# 
+#       - name: Javascript & jQuery
+#         level: 98%
+# 
+#       - name: Angular
+#         level: 98%
+# 
+#       - name: HTML5 & CSS
+#         level: 95%
+# 
+#       - name: Ruby on Rails
+#         level: 85%
+# 
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Original template designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
