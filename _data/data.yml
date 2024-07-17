@@ -49,7 +49,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: Summary As a Software Engineering Manager I led and empowered cross-functional engineering teams (up to 16) in a fast-paced Agile (SCRUM) environment. Delivered impactful products and services through collaboration with senior leadership, engineers, architects, and product partners. I have 20+ years of experience in software systems across diverse industries (banking, auto-retail, enterprise tax), and a proven ability to architect, design, and implement complex SaaS solutions with a strong technical background.
+    summary: As a Software Engineering Manager I led and empowered cross-functional engineering teams (up to 16) in a fast-paced Agile (SCRUM) environment. Delivered impactful products and services through collaboration with senior leadership, engineers, architects, and product partners. I have 20+ years of experience in software systems across diverse industries (banking, auto-retail, enterprise tax), and a proven ability to architect, design, and implement complex SaaS solutions with a strong technical background.
 
 education:
     - degree: BSc Computer Science
@@ -58,35 +58,27 @@ education:
       details: 
 
 experiences:
-    - role: Software Engineering Manager (Tech Lead role)
+    - role: Software Engineering Manager
       time: Aug 2021 - Present
       company: UKG (Ultimate Kronos Group), Miami-Fort Lauderdale area
       details: |
+        Project DeLorean (Master Tax Engine) integration implementation, PTS (Payroll Tax Summary) and RTS (Return Transmission File) Export File Modules, Guardians (Data Guard Rails) project and Agency Management Service
         - Led High-Performing Teams: Managed 2 SCRUM teams (up to 16 engineers) fostering a culture of growth. Conducted regular 1:1s, performance reviews, and facilitated career development. Successfully mentored and promoted 2 engineers to technical leadership roles. Identified knowledge gaps and created talent development plans to bridge them.
-
         - Delivered Business-Critical Solutions: Led the development of a distributed export service (C#, MongoDB, RabbitMQ) enabling efficient processing of millions of employee data points and billions in transactions between payroll and tax platforms.
-
         - Improved Efficiency and Customer Satisfaction: Implemented services with data validations that decreased customer support cases and cost-to-serve by 80%.
-
         - Agile Leader: As a Certified SCRUM Master I used agile principles to identify roadblocks and risks. Created data visualizations (throughput, cycle time, velocity, burndown charts) to track progress and implemented mitigation strategies. Defined succession plans to ensure project continuity.
-
         - Strong Collaboration: Partnered with product and engineering teams to strategize feature planning, ensuring technical feasibility and alignment with customer needs and value.
-
         - Elevated Engineering Practices: Ensured adherence to company SaaS standards through code reviews, defined SLAs/SLOs, and implemented automated pipelines with alerting (GitHub Actions, SonarQube, MS Teams) for improved quality control.
-
         - Increased Automation: Streamlined workflows by automating ticket creation (using Python, Jira, TeamCity) and scheduled alerts (using Python, PagerDuty, TeamCity, MSTeams).
-
         - Knowledge Management: Created a centralized team documentation repository in Confluence for easy access to processes and engineering best practices.
     - role: Software Engineer IV/Principal Software Engineer (Tech Lead Role)
       time: Aug 2016 - Aug 2021
       company: Ultimate Software/UKG, Miami-Fort Lauderdale area
       details: |
+        UTE (Ultimate Tax Engine) Implementation, Filing Generation System, Banking, Filing and Year End functional areas
           - Collaborated with cross-functional teams: Aligned technology roadmap with product vision by collaborating with a 10-member development team and fostered a culture of continuous learning by setting learning goals with engineers and promoting code quality initiatives.
-
           - Mentored and Onboarded Team Members: Conducted regular 1:1s to support technical growth and quality goals, focusing on mentoring and onboarding junior engineers.
-
           - Delivered High-Impact Solutions: Led the development of a C#, SQL Server, RabbitMQ service that reduced tax filing generation time by 98.5% for every million employees, significantly improving efficiency.  Also implemented a suite of services (year-end filing, bank transaction and ACH creation, disk access isolation) using C#, SQL Server, RabbitMQ, leveraging Domain-Driven Design and message/event-driven architecture for scalability and maintainability.  
-          
           - Technical Leadership and Innovation: Championed the migration of a monolithic application to a microservices architecture, enabling horizontal scaling and improved performance. Developed a CLI utility to automate documentation generation based on Git commits, streamlining knowledge sharing.
     - role: Technical Lead
       time: Jan 2016 - Aug 2016
@@ -212,9 +204,10 @@ projects:
 #        link:
 #        tagline:
 skills:
-    title: Leadership, product strategy, team management, software development, distributed & complex data systems.
+    title: Skills and Tools
 
     toolset:
+      - name: Leadership, product strategy, team management, software development, distributed & complex data systems.
       - name: C# and Dotnet framework
       - name: Angular, TypeScrit, Javascript
       - name: HTML5 & CSS
